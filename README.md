@@ -31,3 +31,27 @@
 ###
 
 # Modelado
+## Selección de técnica
+###
+## Generación de un diseño de comprobación
+###
+## Generación de los modelos
+###
+## Evaluación del modelo
+###
+
+#Evaluación
+## Evaluación de los resultados
+###
+## Proceso de revisión
+###
+
+# Distribucción
+## Planificación de distribución
+###
+## Planificación del control y del mantenimiento
+###
+## Creación de un informe final
+###
+## Revisión final del proyecto
+###
