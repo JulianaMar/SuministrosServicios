@@ -5,18 +5,18 @@
 4. Procesos que se realizan vigencia tras vigencia con diferentes lineamientos y que incumplen los plazos de contratación, debido a que no existe un identificación de los procesos que se repiten
 
 # Problema
-## Se requiere un módelo que nos permita generar alertas en el momento que deben realizarse las compras, mediante tendencias y pronósticos con base en los datos obtenidos del comportamiento de la contratación en las vigencias anteriores. 
-## Los datos de los contratos no se encuentran estandarizados en cuanto a como se definen, por tanto no se ha logrado realizar la trazabilidad y unificación de estos contratos.
-## Minería de texto en la detención de los elementos que son los mismos contratos.
+Se requiere un módelo que nos permita generar alertas en el momento que deben realizarse las compras, mediante tendencias y pronósticos con base en los datos obtenidos del comportamiento de la contratación en las vigencias anteriores. 
+Los datos de los contratos no se encuentran estandarizados en cuanto a como se definen, por tanto no se ha logrado realizar la trazabilidad y unificación de estos contratos.
+Minería de texto en la detención de los elementos que son los mismos contratos.
 
 # Datos
-## 1. Rendición de la cuenta por contratos desde la vigencia 2011: 3.000 contratos por vigencia aproximadamente
+1. Rendición de la cuenta por contratos desde la vigencia 2011: 3.000 contratos por vigencia aproximadamente
 
 # Indicador de negocio
+Agrupador mediante técnica de cluster que unifique las palabras presentes en el objeto para identificar las similitudes
 
-## Agrupador mediante técnica de cluster que unifique las palabras presentes en el objeto para identificar las similitudes
-
-# Metodología utilizada: Preparación del texto representando las cadenas de texto numericamente para correr algoritmo de agrupamiento para encontrar las cadenas iguales.
+# Metodología utilizada
+Preparación del texto representando las cadenas de texto numericamente para correr algoritmo de agrupamiento para encontrar las cadenas iguales.
 
 # Modelo:
 
