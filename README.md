@@ -1,6 +1,6 @@
 # Síntomas
 ## 1. Compras en el Municipio de Medellín que sobrepasan la vigencia de contratación
-## 2. Cargas de trabajo mal distribuidas
+2. Cargas de trabajo mal distribuidas
 ## 3. Incumplimiento en la planeación por parte de las diferentes dependencias lo que conlleva a no tener información precisa en cuanto al presupuesto contractual
 ## 4. Procesos que se realizan vigencia tras vigencia con diferentes lineamientos y que incumplen los plazos de contratación, debido a que no existe un identificación de los procesos que se repiten
 
